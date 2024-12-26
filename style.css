@@ -648,6 +648,7 @@ nav h3{
         background-color: #EFEAE3;
         display: flex;
         position: relative;
+        display: none;
     }
     .swiper {
         width: 100%;
@@ -700,7 +701,7 @@ nav h3{
         padding: 3vw;
     }
     #footer h1{
-        font-size: 30vw;
+        font-size: 20vw;
     }
     #footer-div{
         height: 25vw;

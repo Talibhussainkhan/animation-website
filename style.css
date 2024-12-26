@@ -719,7 +719,7 @@ nav h3{
     }
     .full-scr{
         height: 100vh;
-        width: 100%;
+        width: 100vw;
         position: fixed;
         z-index: 10;
         background-color: #00000038;
